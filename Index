@@ -247,9 +247,6 @@
                     Masuk Dashboard
                 </button>
             </form>
-            <div class="mt-4 text-center">
-                <p class="text-xs text-gray-400">Default: username <span class="font-mono font-bold text-gray-600">admin</span> | password <span class="font-mono font-bold text-gray-600">serviceku123</span></p>
-            </div>
         </div>
     </div>
 
